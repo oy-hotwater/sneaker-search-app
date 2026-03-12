@@ -2,7 +2,7 @@
 - 「スニーカーの類似画像を検索する画像処理AI」
 - のフォルダ群
 
-# **技術仕様書：sneaker_similar_image search_ver2.ipynb（Drafted by Gemini）**
+# **技術仕様書：sneaker_similar_image_search_ver2.ipynb（Drafted by Gemini）**
 
 ## **1\. 概要**
 
